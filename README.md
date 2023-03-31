@@ -1,6 +1,6 @@
 # PHSX815_Project-3
 
-This resipository contains the listed programs
+This resipository contains 
 
 * Normal distributions.py (Python)
 
