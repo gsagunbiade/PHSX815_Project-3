@@ -6,9 +6,9 @@
 
 This resipository contains 
 
-* Normal distributions.py (Python)
+* Normal distributions.py (Python) that demonstrates the use of maximum likelihood estimation (MLE) and bootstrapping to estimate the parameter of a normal distribution
 
-* Plot 1
+* Figure
 
 
 # Implementation
