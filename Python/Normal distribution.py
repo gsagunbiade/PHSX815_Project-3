@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 31 17:58:47 2023
 
-@author: g361a609
+@author: Gbenga Agunbiade
 """
 
 import numpy as np
@@ -22,7 +22,7 @@ def estimate_parameter(data):
 
 # Simulate the experiment
 true_mu = 5.0
-n_samples = 3
+n_samples = 20
 data = simulate_experiment(true_mu, n_samples)
 
 # Estimate the parameter using maximum likelihood estimation
@@ -38,8 +38,8 @@ likelihoods = [likelihood(mu, data) for mu in mu_values]
 # Plot the likelihood function
 import matplotlib.pyplot as plt
 plt.plot(mu_values, likelihoods)
-plt.axvline(mu_estimated, color='red', linestyle='--')
-plt.xlabel('mu')
+plt.axvline(mu_estimated, color='purple', linestyle='--')
+plt.xlabel('normal distribution mean (mu)')
 plt.ylabel('Likelihood')
 plt.title('Likelihood function for estimating mu')
 plt.show()
