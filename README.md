@@ -6,6 +6,9 @@ This resipository contains
 
 * Random.py [Python]
 * Data and Rayleigh Distribution.py [Python]
+* Figure 1
+* Figure 2
+* Project 3 Write-up (Essay)
 
 
 # Implementation
