@@ -2,19 +2,18 @@
 
 
 
-# PHSX815_Project-3
-
 This resipository contains 
 
-* Normal distributions.py (Python) that demonstrates the use of maximum likelihood estimation (MLE) and bootstrapping to estimate the parameter of a normal distribution
-
-* Figure
+* Random.py [Python]
+* Data and Rayleigh Distribution.py [Python]
 
 
 # Implementation
 When calling any of the executables from the command line 
 
-'<> Normal distributions.py'
+'<> Random.py'
+
+'<> Data and Rayleigh Distribution.py'
 
 
 
