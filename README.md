@@ -4,8 +4,8 @@
 
 This resipository contains 
 
-* Random.py [Python]
-* Data and Rayleigh Distribution.py [Python]
+
+* Normal Distribution.py [Python]
 * Figure 1
 * Figure 2
 * Project 3 Write-up (Essay)
@@ -14,9 +14,9 @@ This resipository contains
 # Implementation
 When calling any of the executables from the command line 
 
-'<> Random.py'
 
-'<> Data and Rayleigh Distribution.py'
+
+'<> Normal Distribution.py'
 
 
 
